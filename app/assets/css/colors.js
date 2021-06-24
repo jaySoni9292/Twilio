@@ -1,0 +1,25 @@
+export const COLOR = {
+  // APP_THEME: '#18182F',
+  // APP_THEME: '#4a4a4a',
+  APP_THEME: '#000000',
+  THEME_BLUE: '#3FA7FE',
+  // THEME_PINK: '#A316FF',
+  // THEME_PINK: '#FF00CC',
+  // THEME_PINK: '#00FFFF',
+  // THEME_PINK: '#31ED31',
+  // THEME_PINK: '#2AB67B',
+
+  THEME_PINK: '#FF6600',
+
+
+  THEME_LIGHT_BLUE: '#EBECFF',
+  THEME_GREEN: '#00bd89',
+  GREEN_DARK: '#8E8E93',
+  TRANSPARENT_BLACK: '#00000080',
+  TRANSPARENT: '#00000000',
+  BLACK: '#000000',
+  TEXT_DARK: '#2d2d2d',
+  WHITE: '#ffffff',
+  RED: 'red',
+  GRAY: '#d5d5d5',
+};
